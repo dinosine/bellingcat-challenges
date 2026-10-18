@@ -7,7 +7,7 @@
 https://challenge.bellingcat.com/challenge/21
 
 ## Process
-1. A sattelite view of an archipelago
+1. A satellite view of an archipelago
 2. google image > paste source image : many identical results tagged "mayotte"
 3. googlemaps > "mayotte" : confirmed same geography
 

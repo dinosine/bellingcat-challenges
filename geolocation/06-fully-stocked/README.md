@@ -19,5 +19,5 @@ https://challenge.bellingcat.com/challenge/6
    confirmed roadbridge on the side of the harbour
 
 ## Proofs / Sources
-[Euromax image from wikimedia] https://upload.wikimedia.org/wikipedia/commons/f/f1/Tihama_%28ship%2C_2016%29_001.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original
-[habrorfinder] https://harborfinder.com/
+- [Euromax image from wikimedia] https://upload.wikimedia.org/wikipedia/commons/f/f1/Tihama_%28ship%2C_2016%29_001.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original
+- [habrorfinder] https://harborfinder.com/

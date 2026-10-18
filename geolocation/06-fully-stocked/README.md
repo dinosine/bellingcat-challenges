@@ -13,7 +13,7 @@ https://challenge.bellingcat.com/challenge/6
 4. Search for harbour crane brands with "*rdkai" : inconclusive
 5. Reverse image search on google : found some other images, one being from a similar situation on wikimedia
    "Euromax" inscription on the side of the cranes
-7. Searched for international harbour list : harborfinder.com
+7. google > international harbour list : harborfinder.com
 8. Looked for "*rdkai" name : burchardkai harbour terminal in Hamburg
 9. googlemap : confirmed cranes color, location and inscription
    confirmed roadbridge on the side of the harbour

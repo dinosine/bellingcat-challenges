@@ -7,7 +7,7 @@
 https://challenge.bellingcat.com/challenge/11
 
 ## Process
-1. A street by day with parked cars, german car plates, by day, a business sign that reads "shishandi*"
+1. A street with parked cars, german car plates, by day, a business sign that reads "shishandi*"
 2. googlemaps > shishandi : 2 results in germany
    first one is confirmed with streetview from the exact point of view
 

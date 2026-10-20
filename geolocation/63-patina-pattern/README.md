@@ -13,4 +13,4 @@ https://challenge.bellingcat.com/challenge/63
 4. get result in wikimedia commons
 
 ## Proofs/Sources
-![Solution](https://commons.wikimedia.org/wiki/File:190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg)
+![solution](https://commons.wikimedia.org/wiki/File:190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg)
